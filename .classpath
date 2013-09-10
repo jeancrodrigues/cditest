@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/j.rodrigues/Meus documentos/Downloads/weld-se-2.0.4.Final.jar" sourcepath="C:/Documents and Settings/j.rodrigues/Meus documentos/Downloads/weld-se-2.0.4.Final-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Documents and Settings/j.rodrigues/Meus documentos/Downloads/weld-se-2.0.4.Final-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
